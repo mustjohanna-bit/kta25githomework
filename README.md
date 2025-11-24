@@ -2,4 +2,4 @@
 - today is friday
 - laupäev!!! 
 - pühapäev 
-- esmaspäev
+- esmaspäev 
