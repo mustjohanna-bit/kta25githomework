@@ -3,3 +3,4 @@
 - laupäev!!! 
 - pühapäev 
 - esmaspäev 
+- unustasin teisip
