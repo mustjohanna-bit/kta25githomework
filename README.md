@@ -5,4 +5,4 @@
 - esmaspäev 
 - unustasin teisip 
 - kolmapäev 
-- neljpäev 
+- neljapäev 
