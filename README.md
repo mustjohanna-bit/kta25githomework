@@ -6,3 +6,4 @@
 - unustasin teisip 
 - kolmapäev 
 - neljapäev  
+- unustasin branchi teha 
