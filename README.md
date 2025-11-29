@@ -7,3 +7,4 @@
 - kolmapäev 
 - neljapäev  
 - unustasin branchi teha 
+- ei osanud teisi commite siia branchi panna
