@@ -10,3 +10,4 @@
 - ei osanud teisi commite siia branchi panna
 - pühapäev 
 - esmaspäev 
+- teisipäev 
