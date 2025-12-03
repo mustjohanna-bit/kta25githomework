@@ -11,3 +11,4 @@
 - pühapäev 
 - esmaspäev 
 - teisipäev 
+- kolmapäev 
