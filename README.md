@@ -12,4 +12,5 @@
 - esmaspäev 
 - teisipäev 
 - kolmapäev 
-- neljapäev
+- neljapäev 
+- reede 
