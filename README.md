@@ -14,3 +14,4 @@
 - kolmapäev 
 - neljapäev 
 - reede 
+- laupäev 
