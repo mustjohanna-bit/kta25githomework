@@ -15,3 +15,4 @@
 - neljapäev 
 - reede 
 - laupäev 
+- pühapäev 
