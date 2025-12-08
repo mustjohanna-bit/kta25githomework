@@ -16,3 +16,4 @@
 - reede 
 - laupäev 
 - pühapäev 
+- esmaspäev 
