@@ -19,3 +19,4 @@
 - esmaspäev 
 - teisipäev
 - kolmapäev 
+- neljapäev 
