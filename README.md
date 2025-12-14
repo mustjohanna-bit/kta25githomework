@@ -22,3 +22,4 @@
 - neljapäev 
 - reede 
 - laupäev
+- pühapäev
