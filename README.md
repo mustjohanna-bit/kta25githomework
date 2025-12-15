@@ -23,3 +23,4 @@
 - reede 
 - laupäev
 - pühapäev
+- esmaspäev 
