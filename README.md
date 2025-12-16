@@ -24,3 +24,4 @@
 - laupäev
 - pühapäev
 - esmaspäev 
+- teisipäev 
